@@ -5,7 +5,7 @@
 #### Project for BrickHack 6
 
 ### Creative Goals
-Why:
+
 Campus students are not actively engaged in reducing garbage and waste, which they receive in form cartons while shopping online. 
 College campuses are often communities that can engage in reducing their carbon footprint by incentivizing their students to inculcate sustainability in their daily routines.
 Global warming is constantly affecting our lives in America. Last year was the hottest year on record and while the problem might seem to be that of politicians and policymakers to make decisions to reduce emissions and build sustainable economies, living sustainable lives now is a part we can all play as college students. We take on the challenge of reusing, by building a platform where students can exchange carton boxes that were used for packaging for credit in the form of campus cash or dining dollars. This kind of gamification of the process of reusing will encourage students to be more actively engaged in acting to reduce the amount of waste they generate. 
@@ -27,8 +27,8 @@ When points are credited, students might use them on getting used books that are
 ### Specifications:
 Website
 Technologies: 
-HTML
-CSS
+HTML, 
+CSS, 
 Javascript
 
 
