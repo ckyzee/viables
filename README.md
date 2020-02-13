@@ -34,6 +34,9 @@ Javascript
 ### Team CLEAP 
 Esha Shandilya - First-Year Graduate, Human-Computer Interaction; 
      Idea Generation; Concept and UI Design.
+     
 Colin Zee - Freshman, Systems Design Engineering
+
 Laurence - Senior, Computer Science (major), Creative Writing (minor)
+
 Prawachan Dhungana - Second Year UnderGraduate, Computer Information Systems -           
