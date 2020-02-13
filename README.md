@@ -1,7 +1,8 @@
 # Viables
-Empowers students to build a sustainable tomorrow.
 
-Project for BrickHack 6
+#### Empowers students to build a sustainable tomorrow.
+
+#### Project for BrickHack 6
 
 ### Creative Goals
 Why:
